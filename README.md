@@ -1,5 +1,5 @@
-# kkid_test2_bot - chat bot
-It is repository for chat bot: [@kkid_test2_bot](https://t.me/kkid_test2_bot)
+# Cloned bot: team_focus_bot - chat bot
+It is repository for chat bot: [@Cloned bot: team_focus_bot](https://t.me/Cloned bot: team_focus_bot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.

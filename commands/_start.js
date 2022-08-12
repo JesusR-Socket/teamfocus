@@ -10,4 +10,5 @@
 CMD*/
 
 let command = params;
-Bot.runCommand("main_menu");
+
+ Bot.runCommand("main_menu");
